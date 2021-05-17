@@ -1,0 +1,72 @@
+Initial Player 1:[2s, 3h, 4c, 5h, 6d, 7d, 8h, 9c, kh]
+Initial Player 2:[3d, 4s, 5d, 7s, jd, kd, qd, th, tc]
+Player 1
+        Added:6h
+        Discarded:kh
+Hand now: [2s, 3h, 4c, 5h, 6d, 6h, 7d, 8h, 9c]
+Player 2
+        Added:6c
+        Discarded:6c
+Hand now: [3d, 4s, 5d, 7s, jd, kd, qd, th, tc]
+Player 1
+        Added:6c
+        laying: 6d
+        laying: 6h
+        laying: 6c
+        Discarded:2s
+Hand now: [3h, 4c, 5h, 7d, 8h, 9c]
+Player 2
+        Added:2c
+        Discarded:2c
+Hand now: [3d, 4s, 5d, 7s, jd, kd, qd, th, tc]
+Player 1
+        Added:as
+        Discarded:as
+Hand now: [3h, 4c, 5h, 7d, 8h, 9c]
+Player 2
+        Added:qh
+        Discarded:3d
+Hand now: [4s, 5d, 7s, jd, kd, qd, qh, th, tc]
+Player 1
+        Added:5c
+        Discarded:3h
+Hand now: [4c, 5h, 5c, 7d, 8h, 9c]
+Player 2
+        Added:3s
+        Discarded:3s
+Hand now: [4s, 5d, 7s, jd, kd, qd, qh, th, tc]
+Player 1
+        Added:9d
+        Discarded:7d
+Hand now: [4c, 5h, 5c, 8h, 9c, 9d]
+Player 2
+        Added:9h
+        Discarded:5d
+Hand now: [4s, 7s, 9h, jd, kd, qd, qh, th, tc]
+Player 1
+        Added:5d
+        laying: 5h
+        laying: 5c
+        laying: 5d
+        Discarded:4c
+Hand now: [8h, 9c, 9d]
+Player 2
+        Added:jc
+        Discarded:4s
+Hand now: [7s, 9h, jd, jc, kd, qd, qh, th, tc]
+Player 1
+        Added:qc
+        Discarded:qc
+Hand now: [8h, 9c, 9d]
+Player 2
+        Added:6s
+        Discarded:9h
+Hand now: [6s, 7s, jd, jc, kd, qd, qh, th, tc]
+Player 1
+        Added:9h
+        laying: 9c
+        laying: 9d
+        laying: 9h
+        Discarded:8h
+Hand now: []
+Player 1 wins!
