@@ -6,17 +6,29 @@ CCOM4029-001
 Implementations i made in the code:
 
 implemented the set functionality
+
 created the MyStack generic class 
+
 created the PileInterface class
+
 created the Pile class
+
 Implemented the StackDeck with the pile class
+
 implemented a turn system for the two players
+
 Implemented a sort function for the player hands
+
 Displayed a text version of the actions in the game
+
 Implemented a way for the stack to start with a card in the beginning of the game
-Added an icon to  the game 
+
+Added an icon to  the game
+
 Implemented when the player hits the x button in the game gui it closes the entire program
-Created a pop up for the winner of the game 
+
+Created a pop up for the winner of the game
+
 Evaluated the hands of the players to figure out the winner and displays it on the pop up screen
 
 Extras credit 
